@@ -1,4 +1,9 @@
 body{
 	background-image: url("moon.jpg");
 	background-repeat: no-repeat;
+	color: #3D3D3D;
+	font-family: 'Bitter', serif;
+}
+h1{
+	font-size:128px;
 }
