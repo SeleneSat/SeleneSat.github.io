@@ -1,6 +1,6 @@
 body{
-	background-image: url("moon.jpg");
-	background-repeat: no-repeat;
+	text-align: center;
+	background-color: #080808;
 	color: #3D3D3D;
 	font-family: 'Bitter', serif;
 }
