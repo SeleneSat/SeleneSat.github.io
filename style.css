@@ -3,16 +3,18 @@ html{
 	background-repeat: no-repeat;
 	background-size: cover;
 	text-align: center;
-	color: #B71C0C;
 	font-family: 'Bitter', serif;
 }
 h1{
 	font-size:64px;
+	color: #B71C0C;
 }
 h2{
 	font-size:32px;
+	color: #B71C0C;
 }
 p{
+	color:#7E4C2B;
 	font-size: 24px;
 }
 a:link{color:#7E4C2B;}
