@@ -1,6 +1,5 @@
-body{
+html{
 	text-align: center;
-	background-color: #080808;
 	color: #3D3D3D;
 	font-family: 'Bitter', serif;
 }
@@ -9,6 +8,9 @@ h1{
 }
 h2{
 	font-size:32px;
+}
+p{
+	font-size: 24px;
 }
 a:link{color:#3D3D3D;}
 a:visited{color:#3D3D3D;}
