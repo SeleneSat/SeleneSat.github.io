@@ -1,6 +1,9 @@
+html{  background: url("files/moon.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;}
 body{
-	background-image: url("files/moon.jpg");
-	background-repeat: no-repeat;
 	color: #3D3D3D;
 	font-family: 'Bitter', serif;
 	text-align: center;
