@@ -1,0 +1,20 @@
+html{
+	background-image: url("files/moon.jpg");
+	background-repeat: no-repeat;
+	text-align: center;
+	color: #B71C0C;
+	font-family: 'Bitter', serif;
+}
+h1{
+	font-size:64px;
+}
+h2{
+	font-size:32px;
+}
+p{
+	font-size: 24px;
+}
+a:link{color:#B71C0C;}
+a:visited{color:#B71C0C;}
+a:active{color:#B71C0C;}
+a:hover{color:#F75C4C;}
