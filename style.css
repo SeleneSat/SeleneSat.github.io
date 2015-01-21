@@ -14,6 +14,11 @@ h2{
 	font-size:32px;
 	color: #D73C2C;
 }
+h3{
+	font-size: 28px;
+	color:#7E4C2B;
+	font-weight: bold;
+}
 p{
 	margin-right: 15%;
 	margin-left: 15%;
