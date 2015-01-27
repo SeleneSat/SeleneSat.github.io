@@ -33,7 +33,7 @@ a:hover{color:#AE7C5B;}
 }
 @media screen and (max-aspect-ratio: 9/10){/*mobile site (mobile devices have aspect ratios under 1)*/
 	html{
-	background-color: #ffff00
+	background-color: #ffff00;
 	text-align: center;
 	font-family: 'Bitter', serif;
 }
