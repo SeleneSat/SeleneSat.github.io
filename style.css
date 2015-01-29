@@ -32,7 +32,7 @@ a:hover{color:#858585;}
 	html{
 	background-image: url("files/pattern.png");
 	background-attachment: fixed;
-	background-size: 2560px 1440px;
+	background-size: cover;
 	/*background-color: #9C9C9C;*/
 	text-align: center;
 	font-family: 'Bitter', serif;
