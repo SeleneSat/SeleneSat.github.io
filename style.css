@@ -5,59 +5,53 @@ html{
 	background-repeat: no-repeat;
 	background-size: cover;
 	text-align: center;
+	color:#404040;
 	font-family: 'Bitter', serif;
 }
 h1{
 	font-size:64px;
-	color: #D73C2C;
 }
 h2{
 	font-size:32px;
-	color: #D73C2C;
 }
 h3{
 	font-size: 26px;
-	color:#7E4C2B;
 	font-weight: bold;
 }
 p{
 	margin-right: 15%;
 	margin-left: 15%;
-	color:#7E4C2B;
 	font-size: 24px;
 }
-a:link{color:#7E4C2B;}
-a:visited{color:#7E4C2B;}
-a:active{color:#7E4C2B;}
-a:hover{color:#AE7C5B;}
+a:link{color:#404040;}
+a:visited{color:#404040;}
+a:active{color:#404040;}
+a:hover{color:#666666;}
 }
 @media screen and (max-aspect-ratio: 9/10){/*mobile site (mobile devices have aspect ratios under 1)*/
 	html{
-	background-color: #ffff00;
+	background-image: url("files/pattern") repeat 0 0;
+	background-attachment: fixed;
 	text-align: center;
 	font-family: 'Bitter', serif;
 }
 h1{
 	font-size:64px;
-	color: #D73C2C;
 }
 h2{
 	font-size:32px;
-	color: #D73C2C;
 }
 h3{
 	font-size: 26px;
-	color:#7E4C2B;
 	font-weight: bold;
 }
 p{
 	margin-right: 15%;
 	margin-left: 15%;
-	color:#7E4C2B;
 	font-size: 24px;
 }
-a:link{color:#7E4C2B;}
-a:visited{color:#7E4C2B;}
-a:active{color:#7E4C2B;}
-a:hover{color:#AE7C5B;}
+a:link{color:#404040;}
+a:visited{color:#404040;}
+a:active{color:#404040;}
+a:hover{color:#666666;}
 }
