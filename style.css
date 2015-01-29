@@ -30,7 +30,7 @@ a:hover{color:#858585;}
 }
 @media screen and (max-aspect-ratio: 9/10){/*mobile site (mobile devices have aspect ratios under 1)*/
 	html{
-	background-image: url("files/pattern.png") repeat 0 0;
+	background-image: url("files/pattern.png");
 	background-attachment: fixed;
 	text-align: center;
 	font-family: 'Bitter', serif;
