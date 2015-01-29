@@ -33,6 +33,7 @@ a:hover{color:#858585;}
 	background-image: url("files/pattern.png");
 	background-attachment: fixed;
 	background-size: cover;
+	color:#9c9c9c;
 	/*background-color: #9C9C9C;*/
 	text-align: center;
 	font-family: 'Bitter', serif;
