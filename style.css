@@ -7,6 +7,10 @@ html{
 	text-align: center;
 	color:#3399FF;				/* Old colour:  #404040 */
 	font-family: 'Bitter', serif;
+	
+	background-color: #FFFFFF;
+	opacity: 0.5;
+	filter: alpha(opacity=50);
 }
 h1{
 	font-size:64px;
