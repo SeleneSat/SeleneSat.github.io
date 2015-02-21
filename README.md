@@ -1,6 +1,5 @@
 #To Do List:
-#- Add a description of Project Selene to info.html
-#- Get/Make a better Favicon
-#- Change the text color to something that goes better with the background
+#-Make website sexy, e.g. use a navigation bar rather than ugly <a> links in the body
+#-Get a better favicon
 
 if you don't have permission to edit, email 17shurei@prepstudents.org with your github username for an invite to the organization
