@@ -2,13 +2,18 @@
 #sidebar {
   position: fixed;
   top: 40px;
+  background-color: #777777;
   left: 40px;
   width: 200px;
-  border-right:1px solid #aaa;
+  border-right:1px solid #111111;
 }
  
 #content {
   margin: 0 40px 40px 280px;
+color: #404040;
+font-family: 'Bitter',serif;
+text-align:center;
+font-size:24px;
 }
 
 html{
