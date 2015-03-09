@@ -1,4 +1,16 @@
 @media screen and (min-aspect-ratio: 1/1){/*desktop site (normal computers have aspect ratios of at least 1)*/
+#sidebar {
+  position: fixed;
+  top: 40px;
+  left: 40px;
+  width: 200px;
+  border-right:1px solid #aaa;
+}
+ 
+#content {
+  margin: 0 40px 40px 280px;
+}
+
 html{
 	background-image: url("files/moon.jpg");
 	background-attachment: fixed;
