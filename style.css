@@ -114,6 +114,7 @@ a:hover{color:#7A7A7A;}
 	p{
 		font-size: 12pt;
 	}
+	.break_before{page-break-before: always;}
 
 }  
 
