@@ -36,11 +36,11 @@ html{
 h1{
 	font-size:64px;
 }
-@-moz-document url-prefix(){
+/*@-moz-document url-prefix(){
 	h1{
-		color: red; /*this make h1 red in ff, */
+		color: red; this make h1 red in ff, 
 	}
-}
+}*/
 
 h2{
 	font-size:32px;
