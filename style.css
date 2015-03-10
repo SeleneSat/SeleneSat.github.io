@@ -92,10 +92,28 @@ a:hover{color:#7A7A7A;}
 }
 
 @media print{
+	
+	*{color: #000 !important;}
+	
+	html{
+		font-family: 'Vollkorn', serif;
+		background: #FFF;
+	}
 
-h1{
-	font-size: 24pt;
-}
+	h1{
+		font-size: 24pt;
+	}
+	
+	h2{
+		font-size: 16pt;
+	}
+	h3{
+		font-size: 16pt;
+		font-weight: bold;
+	}
+	p{
+		font-size: 12pt;
+	}
 
-  
+}  
 
