@@ -2,7 +2,7 @@
 #sidebar {
   position: fixed;
   top: 0px;
-  bottom: 4000px;
+  bottom:60% ;
   background-color: #777777;
   left: 0px;
   width: 200px;
