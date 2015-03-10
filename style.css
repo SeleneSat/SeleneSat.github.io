@@ -1,9 +1,10 @@
 @media screen and (min-aspect-ratio: 1/1){/*desktop site (normal computers have aspect ratios of at least 1)*/
 #sidebar {
   position: fixed;
-  top: 40px;
+  top: 0px;
+  bottom: 0px;
   background-color: #777777;
-  left: 40px;
+  left: 0px;
   width: 200px;
   border-right:1px solid #111111;
 }
