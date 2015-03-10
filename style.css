@@ -8,7 +8,7 @@
   border-right:1px solid #111111;
 color: #FFFFFF;
 font-family: 'Bitter',serif;
-text-align:left;
+text-align:center;
 font-size:18px;
 
 }
@@ -20,6 +20,7 @@ text-decoration:none}
 text-decoration:none}
 #sidebar a:hover{color:#e9e9e9;
 text-decoration:none} 
+#sidebar ul{text-align:left;}
 
 html{
 	background-image: url("files/moon.jpg");
