@@ -1,4 +1,4 @@
-@media screen and (min-aspect-ratio: 1/1){/*desktop site (normal computers have aspect ratios of at least 1)*/
+@media screen and (min-aspect-ratio: 1/1){/*desktop  site (normal computers have aspect ratios of at least 1)*/
 #sidebar {
   position: fixed;
   top: 0px;
