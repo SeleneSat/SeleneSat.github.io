@@ -39,7 +39,7 @@ h1{
 }
 /*@-moz-document url-prefix(){
 	h1{
-		color: red; this make h1 red in ff, 
+		color: red; this make h1 red in ff, was planning to use the concept but you just swatted the bug.
 	}
 }*/
 
@@ -90,3 +90,12 @@ a:visited{color:#9c9c9c;}
 a:active{color:#9c9c9c;}
 a:hover{color:#7A7A7A;}
 }
+
+@media print{
+
+h1{
+	font-size: 24pt;
+}
+
+  
+
