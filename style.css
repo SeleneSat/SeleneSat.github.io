@@ -95,9 +95,10 @@ a:hover{color:#7A7A7A;}
 	
 	*{color: #000 !important;}
 	
-	html{
+	body{
 		font-family: 'Vollkorn', serif;
 		background: #FFF;
+		border: 4px double #9c9c9c;
 	}
 
 	h1{
@@ -113,6 +114,7 @@ a:hover{color:#7A7A7A;}
 	}
 	p{
 		font-size: 12pt;
+		border: 1px dashed #909090;
 	}
 	.break_before{page-break-before: always;}
 
