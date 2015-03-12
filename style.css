@@ -1,9 +1,16 @@
 @media screen and (min-aspect-ratio: 1/1){/*desktop  site (normal computers have aspect ratios of at least 1)*/
 #sidebar {
   position: fixed;
-  top: 0px;
-  background-color: #777777;
-  left: 0px;
+z-index:20;
+overflow:hidden;
+top:0;
+-webkit-transition: all 0.3s;
+-moz-transition: all 0.3s; 
+-o-transition: all 0.3s;
+-ms-transition: all 0.3s;
+transition: all 0.3s;   
+background-color: #777777;
+  left: -200px;
   width: 200px;
   border-right:1px solid #111111;
 color: #FFFFFF;
@@ -12,6 +19,29 @@ text-align:center;
 font-size:18px;
 
 }
+body.sml-open nav.sidebar{left:0;}
+#sidebar li{
+display:block;
+text-align:center;
+border-bottom:solid 1px #fff;
+border-top:solid 1-x #fff;
+}
+#sidebar li:first-child{
+border-top:none;}
+#sidebar li:last-child{border-bottom:none;}
+#sidebar ul{
+list-style-type:none;
+margin:0;
+padding:0;
+}
+#close_menu{
+background-color:#2f4f4f;
+margin: 10px 0;
+padding:10px 30px;
+color:#fff;
+}
+button.close_menu:focus{outline:none;}
+
 #sidebar a:link{color:#FFF;
 text-decoration:none}
 #sidebar a:visited{color:#FFF;
