@@ -173,11 +173,14 @@ a:hover{color:#7A7A7A;}
 		font-size: 16pt;
 		font-weight: bold;
 	}
-	p{
-		font-size: 12pt;
+	
+	p{font-size: 12pt;}
+	
+	.bordered{
 		border: 1px dashed #909090;
+		padding-bottom: 10px;
+		padding-top: 10px;
 	}
-	.break_before{page-break-before: always;}
 
 }  
 
