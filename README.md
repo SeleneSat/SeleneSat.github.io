@@ -1,6 +1,7 @@
 #To Do List:
-##-Implement a navigation bar rather than ugly <a> links in the body
+##-Make current Navigation bar look better
 ##-Get a better favicon
+##-Make mobile site work again (navbar broke it)
 ##-Make the website sexier
 ##-Update "The Project Selene Team" section in info.html
 
