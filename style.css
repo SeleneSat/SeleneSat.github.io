@@ -64,7 +64,9 @@ text-decoration:none}
 text-decoration:none} 
 #sidebar ul{text-align:left;}
 
+
 html{
+	overflow-y:scroll;
 	background-image: url("files/moon.jpg");
 	background-attachment: fixed;
 	background-position: center center;
