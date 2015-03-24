@@ -1,4 +1,10 @@
 @media screen and (min-aspect-ratio: 1/1){/*desktop  site (normal computers have aspect ratios of at least 1)*/
+html{	background-image: url("files/moon.jpg");
+	background-attachment: fixed;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;}
+}
 #sidebar {
 position: fixed;
 z-index:20;
@@ -67,11 +73,6 @@ text-decoration:none}
 
 html{
 	overflow-y:scroll;
-	background-image: url("files/moon.jpg");
-	background-attachment: fixed;
-	background-position: center center;
-	background-repeat: no-repeat;
-	background-size: cover;
 	text-align: center;
 	color:#404040;				/* Old colour:  #404040 */
 	font-family: 'Bitter', serif;
@@ -107,7 +108,7 @@ a:link{color:#404040;}
 a:visited{color:#404040;}
 a:active{color:#404040;}
 a:hover{color:#858585;}
-}
+
 @media screen and (max-aspect-ratio: 9/10){/*mobile site (mobile devices have aspect ratios under 1)*/
 	html{
 	background-image: url("files/pattern.png");
