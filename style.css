@@ -9,7 +9,7 @@ html{	background-image: url("files/moon.jpg");
 position: fixed;
 z-index:20;
 overflow:hidden;
-top:0;
+top:10;
 
 -webkit-transition: all 0.4s;
 -moz-transition: all 0.4s; 
