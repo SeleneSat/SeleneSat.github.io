@@ -9,7 +9,7 @@ html{	background-image: url("files/moon.jpg");
 position: fixed;
 z-index:20;
 overflow:hidden;
-top:10;
+top:0;
 
 -webkit-transition: all 0.4s;
 -moz-transition: all 0.4s; 
@@ -32,6 +32,7 @@ color: #FFFFFF;
 font-family: 'Bitter',serif;
 text-align:center;
 font-size:18px;
+margin-top:20px;
 
 }
 #openmenu_container a{text-decoration: none;}
