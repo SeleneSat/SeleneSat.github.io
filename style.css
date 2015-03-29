@@ -17,11 +17,11 @@ top:0;
 -ms-transition: all 0.4s;
 transition: all 0.4s;   
 
--webkit-transition-timing-function: cubic-bezier(0.710, 0, 0.515, 1); /* older webkit */
--webkit-transition-timing-function: cubic-bezier(0.710, -0.365, 0.515, 1.540); 
--moz-transition-timing-function: cubic-bezier(0.710, -0.365, 0.515, 1.540); 
--o-transition-timing-function: cubic-bezier(0.710, -0.365, 0.515, 1.540); 
-transition-timing-function: cubic-bezier(0.710, -0.365, 0.515, 1.540); /* custom */
+-webkit-transition-timing-function: cubic-bezier(0.520, 0, 0.540, 1); /* older webkit */
+-webkit-transition-timing-function: cubic-bezier(0.520, -0.600, 0.540, 1.650); 
+-moz-transition-timing-function: cubic-bezier(0.520, -0.600, 0.540, 1.650); 
+-o-transition-timing-function: cubic-bezier(0.520, -0.600, 0.540, 1.650); 
+transition-timing-function: cubic-bezier(0.520, -0.600, 0.540, 1.650); /* custom */
 
 background-color: #777777;
 left: -200px;
