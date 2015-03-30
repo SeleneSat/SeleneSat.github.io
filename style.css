@@ -32,7 +32,7 @@ color: #FFFFFF;
 font-family: 'Bitter',serif;
 text-align:center;
 font-size:18px;
-margin-top:20px;
+margin-top:15px;
 padding-top:10px;
 
 }
@@ -50,8 +50,9 @@ color:#BDC3C7;
 
 background-color: #777777;
 
-border:5px solid #444444;
-border-radius: 20px;
+border:3px solid #444444;
+border-radius: 15px;
+padding:1px;
 
 }
 /*body.sml-open nav.sidebar{left:0;}
