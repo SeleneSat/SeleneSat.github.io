@@ -51,6 +51,7 @@ position: fixed;
 font-size: 30px;
 left: 40px;
 top:18px;
+cursor: pointer;
 overflow:hidden;
 /*set opacity of openmenu to 0.75*/
 -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)"; /* IE 8 */
@@ -105,6 +106,7 @@ text-align: center;
 margin-top: 18px;
 font-size: 30px;
 color:#fff;
+cursor: pointer;
 }
 button.close_menu:focus{outline:none;}
 
