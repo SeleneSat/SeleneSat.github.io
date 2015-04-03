@@ -18,12 +18,12 @@ top:0;
 transition: all 0.4s;   
 
 
-
--ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)"; /* IE 8 */
-filter: alpha(opacity=50); /* IE 5-7 */
--moz-opacity: 0.5; /* Netscape */
--khtml-opacity: 0.5; /* Safari 1.x */
-opacity: 0.5; /* Good browsers */
+/*set opacity of menu to 0.75*/
+-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)"; /* IE 8 */
+filter: alpha(opacity=75); /* IE 5-7 */
+-moz-opacity: 0.75; /* Netscape */
+-khtml-opacity: 0.75; /* Safari 1.x */
+opacity: 0.75; /* Good browsers */
 
 -webkit-transition-timing-function: cubic-bezier(0.520, 0, 0.540, 1); /* older webkit */
 -webkit-transition-timing-function: cubic-bezier(0.520, -0.600, 0.540, 1.650); 
@@ -59,6 +59,7 @@ color:#BDC3C7;
 background-color: #777777;
 border-radius: 15px;
 padding:1px;
+position:fixed;
 padding-left:3px;
 padding-right:3px;
 
