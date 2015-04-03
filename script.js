@@ -1,8 +1,8 @@
 function main()
 {
-$("#openmenu").click(function(){$("#sidebar").css("left","0px");
-$("#openmenu").css("left","-300px");});
+$("#openmenu_container").click(function(){$("#sidebar").css("left","0px");
+$("#openmenu_container").css("left","-300px");});
 $("#close_menu").click(function(){$("#sidebar").css("left","-200px");
-$("#openmenu").css("left","auto");});
+$("#openmenu_container").css("left","auto");});
 }
 $(window).load(main);
