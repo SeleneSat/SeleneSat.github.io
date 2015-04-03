@@ -51,10 +51,7 @@ position: fixed;
 font-size: 30px;
 left: 40px;
 top:18px;
-}
-#openmenu{
-	
-
+overflow:hidden;
 /*set opacity of openmenu to 0.75*/
 -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)"; /* IE 8 */
 filter: alpha(opacity=75); /* IE 5-7 */
@@ -73,6 +70,10 @@ transition: all 0.4s;
 -moz-transition-timing-function: cubic-bezier(0.520, -0.600, 0.540, 1.650); 
 -o-transition-timing-function: cubic-bezier(0.520, -0.600, 0.540, 1.650); 
 transition-timing-function: cubic-bezier(0.520, -0.600, 0.540, 1.650); /* custom */
+
+}
+#openmenu{
+	
 
 color:#BDC3C7;
 
