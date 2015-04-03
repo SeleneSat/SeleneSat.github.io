@@ -54,6 +54,20 @@ top:18px;
 }
 #openmenu{
 	
+
+/*set opacity of openmenu to 0.75*/
+-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)"; /* IE 8 */
+filter: alpha(opacity=75); /* IE 5-7 */
+-moz-opacity: 0.75; /* Netscape */
+-khtml-opacity: 0.75; /* Safari 1.x */
+opacity: 0.75; /* Good browsers */
+
+-webkit-transition-timing-function: cubic-bezier(0.520, 0, 0.540, 1); /* older webkit */
+-webkit-transition-timing-function: cubic-bezier(0.520, -0.600, 0.540, 1.650); 
+-moz-transition-timing-function: cubic-bezier(0.520, -0.600, 0.540, 1.650); 
+-o-transition-timing-function: cubic-bezier(0.520, -0.600, 0.540, 1.650); 
+transition-timing-function: cubic-bezier(0.520, -0.600, 0.540, 1.650); /* custom */
+
 color:#BDC3C7;
 
 background-color: #777777;
