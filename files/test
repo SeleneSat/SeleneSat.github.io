@@ -1,0 +1,31 @@
+<!--Home Page for Project Selene-->
+<!DOCTYPE html>
+<html>
+<title>Project Selene -- Home</title>
+<head>
+	<script src="files/jquery-1.11.2.min.js"></script>
+	<script src=script.js></script>
+	<link href="files/favicon.ico" rel="icon" type="image/x-icon" />
+	<link href='http://fonts.googleapis.com/css?family=Bitter' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div id="openmenu_container"><a id="openmenu">Menu</a></div>
+<div id="sidebar">
+
+<a id="close_menu">Close</a>
+<ul>	 
+     <li><a href="http://projectselene.tk"> Home</a></li>
+<li>	<a href="http://projectselene.tk/info">More Info</a></li>
+<li>	<a href="files/Outreach.pdf" target="blank">Outreach PDF</a></li>
+<li>	<a href="https://github.com/selenesat" target="blank">Github</a></li></ul>
+	
+</div>
+
+<div id="main">
+<h1>Project Selene</h1>
+<h2>To the moon with ion propulsion.</h2>
+</div>
+
+</body>
+</html
